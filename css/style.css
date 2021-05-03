@@ -1,0 +1,107 @@
+/*---- ----*/
+
+
+
+*{
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+
+.one{
+	    background: rgb(227 81 110);
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    position: relative;
+}
+
+
+.onl{
+	    width: 100px;
+    height: 100px;
+    background: rgb(81 181 169);
+    border-radius: 100px 0px 0px 0px;
+    position: absolute;
+    left: 29%;
+    top: 33%;
+}
+   
+   
+
+.onr{
+	    width: 100px;
+    height: 100px;
+    background: rgb(250 222 139);
+    border-radius: 0px 100px 0px 0px;
+    position: absolute;
+    left: 49%;
+    top: 33%;
+   
+}
+
+.ont{
+	    width: 100px;
+    height: 100px;
+    background: rgb(247 243 215);
+    border-radius: 0px 0px 0px 100px;
+    position: absolute;
+    left: 29%;
+    top: 53%;
+}
+
+
+.two{
+	    background: rgb(98 48 109);
+        width: 444px;
+    height: 270px;
+    padding: 28px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.bor{
+	
+	width: 438px;
+    height: 265px;
+    background: 0px;
+	border: 2px solid white;
+	border: 2px solid black;
+}
+
+.two2{
+	 margin-left: 80px;
+    padding-top: 125px;
+}
+
+
+.onl2{
+	   background: rgb(247 236 125);
+    width: 90px;
+    height: 90px;
+    float: left;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+   
+   
+
+.onr2{
+	        background: rgb(247 236 125);
+    width: 90px;
+    height: 90px;
+    float: left;
+    margin-top: -89px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+   
+}
+
+.ont2{
+	       background: rgb(247 236 125);
+    width: 90px;
+    height: 90px;
+    float: left;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
